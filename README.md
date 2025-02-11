@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Funderstanding-hacking-what-how-works-protect-yourself-tcs-forensics&psig=AOvVaw1J3VXbq1QKWehRV2fRvwQg&ust=1739392485312000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICP96C8vIsDFQAAAAAdAAAAABAE"/> </p>
+<p align="center"> <img src="https://media.licdn.com/dms/image/v2/D5612AQH765iHxu_Iig/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680553999426?e=1744848000&v=beta&t=j2YmY-Y6TNdhGl76gSEJjpjWVSbKSFDy48Ny8LHzyzY"/> </p>
 <h1 align="center">Hi 👋, I'm Riyaz Uddin</h1>
 <h3 align="center">Certified Ethical Hacker And Cyber Security Specialist</h3>
 

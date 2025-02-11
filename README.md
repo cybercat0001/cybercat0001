@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Funderstanding-hacking-what-how-works-protect-yourself-tcs-forensics&psig=AOvVaw1J3VXbq1QKWehRV2fRvwQg&ust=1739392485312000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICP96C8vIsDFQAAAAAdAAAAABAE"/> </p>
-<h1 align="center">Hi 👋, I'm Robiul Islam</h1>
+<h1 align="center">Hi 👋, I'm Riyaz Uddin</h1>
 <h3 align="center">Certified Ethical Hacker And Cyber Security Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nextgen-hacker&label=Profile%20views&color=0e75b6&style=flat" alt="nextgen-hacker" /> </p>
@@ -17,8 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/itsmerobiul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmerobiul" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@NextGenRobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nextgen.hacker" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/riyaz-uddin-69123b248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyaz-uddin-69123b248" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
